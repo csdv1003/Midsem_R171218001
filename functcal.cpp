@@ -6,5 +6,7 @@ void add(int a, int b)
 	sum=a+b;
 	cout<<sum:
 }
+ int main()
 
-
+{
+	int a=10,b=5;
