@@ -10,3 +10,4 @@ void add(int a, int b)
 
 {
 	int a=10,b=5;
+	cout<<"sum of two no. is "<<endl;
